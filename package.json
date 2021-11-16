@@ -8,7 +8,7 @@
     "dev": "NODE_ENV=development serverless offline start"
   },
   "dependencies": {
-    "aws-sdk": "^2.558.0",
+    "aws-sdk": "^2.814.0",
     "serverless-offline": "^5.12.0",
     "serverless-offline-lambda": "^1.0.6",
     "serverless-offline-lambda-invoke": "0.0.6",
